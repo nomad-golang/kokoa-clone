@@ -2,7 +2,6 @@
 @import "reset.css";
 @import "variables.css";
 
-
 /* Components */
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
@@ -12,5 +11,5 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  height: 1000vh;
+  margin-top: 25px;
 }
